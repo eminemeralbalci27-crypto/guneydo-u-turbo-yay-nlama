@@ -1,0 +1,10 @@
+title: Güneydoğu Turbo
+description: Güneydoğu Turbo web sitesi
+baseurl: ""
+url: ""
+exclude:
+  - .github
+  - .gitignore
+  - README.md
+  - vendor
+  - node_modules
